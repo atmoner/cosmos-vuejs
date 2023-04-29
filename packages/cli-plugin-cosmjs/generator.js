@@ -1,4 +1,5 @@
 module.exports = api => {
+  console.log(api.options.cosmjsSelectedFeatures)
   if (api.options.cosmjsSelectedFeatures === 'stargate') {
     api.extendPackage({
       dependencies: {
