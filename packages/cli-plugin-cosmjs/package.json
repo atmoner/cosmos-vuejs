@@ -1,10 +1,10 @@
 {
-  "name": "cli-plugin-cosmjs",
+  "name": "@cosmvue/cli-plugin-cosmjs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'all cli-plugin-cosmjs tests passed!'"
+    "test": "echo 'all @cosmvue/cli-plugin-cosmjs tests passed!'"
   },
   "publishConfig": {
     "access": "public",
@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atmoner/cosmos-vuejs/tree/main/packages/cli-plugin-cosmjs"
+    "url": "https://github.com/atmoner/cosmvue/tree/main/packages/cli-plugin-cosmjs"
   },
   "keywords": [],
   "author": "atmon3r",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atmoner/cosmos-vuejs/issues"
+    "url": "https://github.com/atmoner/cosmvue/issues"
   },
-  "homepage": "https://github.com/atmoner/cosmos-vuejs#readme"
+  "homepage": "https://github.com/atmoner/cosmvue#readme"
 }

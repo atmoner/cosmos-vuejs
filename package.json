@@ -1,5 +1,5 @@
 {
-  "name": "cosmos-vuejs",
+  "name": "cosmvue",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/atmoner/cosmos-vuejs"
+    "url": "https://github.com/atmoner/cosmvue"
   },
   "publishConfig": {
     "access": "public",
@@ -20,7 +20,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/atmoner/cosmos-vuejs/issues"
+    "url": "https://github.com/atmoner/cosmvue/issues"
   },
-  "homepage": "https://github.com/atmoner/cosmos-vuejs#readme"
+  "homepage": "https://github.com/atmoner/cosmvue#readme"
 }
