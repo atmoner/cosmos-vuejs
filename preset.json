@@ -6,6 +6,9 @@
       "prompts": true
     },
     "@vue/cli-plugin-router": {},
-    "@vue/cli-plugin-vuex": {}
+    "@vue/cli-plugin-vuex": {},
+    "@cosmvue/cli-plugin-cosmjs": {
+      "prompts": true
+    }
   }
 }
