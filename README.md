@@ -1,1 +1,1 @@
-# cosmos-vuejs
+# cosmvue
