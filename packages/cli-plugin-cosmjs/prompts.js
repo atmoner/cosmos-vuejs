@@ -5,24 +5,24 @@ module.exports = [
     message: 'Pick additional @cosmJs features:',
     choices: [
       {
-        name: 'stargate',
+        name: '@cosmjs/stargate',
         value: 'stargate',
         checked: true
       },
       {
-        name: 'cosmwasm-stargate',
+        name: '@cosmjs/cosmwasm-stargate',
         value: 'cosmwasmstargate'
       },
       {
-        name: 'proto-signing',
+        name: '@cosmjs/proto-signing',
         value: 'protosigning'
       },
       {
-        name: 'ledger-amino',
+        name: '@cosmjs/ledger-amino',
         value: 'ledgeramino'
       },
       {
-        name: 'faucet-client',
+        name: '@cosmjs/faucet-client',
         value: 'faucetclient'
       }
     ]
