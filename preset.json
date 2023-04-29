@@ -5,7 +5,7 @@
     "@vue/cli-plugin-eslint": {
       "prompts": true
     },
-    "@vue/cli-plugin-router": {},
+    //"@vue/cli-plugin-router": {},
     "@vue/cli-plugin-vuex": {},
     "@cosmvue/cli-plugin-cosmvue": {},
     "@cosmvue/cli-plugin-cosmjs": {
