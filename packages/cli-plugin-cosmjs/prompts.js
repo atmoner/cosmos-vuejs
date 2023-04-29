@@ -20,10 +20,6 @@ module.exports = [
       {
         name: '@cosmjs/ledger-amino',
         value: 'ledgeramino'
-      },
-      {
-        name: '@cosmjs/faucet-client',
-        value: 'faucetclient'
       }
     ]
   }
