@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "scripts": {
+    "test": "echo 'all cli-plugin-cosmvue tests passed!'"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org"

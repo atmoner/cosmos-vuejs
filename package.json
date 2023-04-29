@@ -1,8 +1,12 @@
 {
   "name": "cosmos-vuejs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
+  "private": true,
+  "scripts": {
+    "publish-latest": "yarn workspaces foreach --no-private yarn npm publish"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/atmoner/cosmos-vuejs"
@@ -11,9 +15,7 @@
     "access": "public",
     "registry": "https://registry.npmjs.org"
   },
-  "workspaces": [
-    "packages/*"
-  ],
+  "workspaces": ["./packages/*"],
   "keywords": [],
   "author": "",
   "license": "ISC",
