@@ -5,7 +5,7 @@
     "vue": {
       "version": "3.3.4"
     } 
-  }  
+  },
   "plugins": {
     "@vue/cli-plugin-vuex": {},
     "@cosmvue/cli-plugin-cosmvue": {
