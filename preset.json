@@ -3,9 +3,7 @@
   "cssPreprocessor": "sass",
   "plugins": {
     "@vue/cli-plugin-vuex": {},
-    "@cosmvue/cli-plugin-cosmvue": {
-      "version": "1.0.7"
-    },
+    "@cosmvue/cli-plugin-cosmvue": {},
     "@cosmvue/cli-plugin-cosmjs": {
       "prompts": true
     }
