@@ -1,12 +1,10 @@
 {
   "useConfigFiles": true,
   "cssPreprocessor": "sass",
-  "configs": {
+  "plugins": {
     "vue": {
       "version": "3.3.4"
-    } 
-  },
-  "plugins": {
+    },
     "@vue/cli-plugin-vuex": {},
     "@cosmvue/cli-plugin-cosmvue": {
       "version": "1.0.5"
