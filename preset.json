@@ -6,7 +6,7 @@
       "prompts": true
     }, 
     "@vue/cli-plugin-vuex": {},
-    "@cosmvue/cli-plugin-cosmvue@latest": {},
+    "@cosmvue/cli-plugin-cosmvue": {},
     "@cosmvue/cli-plugin-cosmjs": {
       "prompts": true
     }
